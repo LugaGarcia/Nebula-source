@@ -1,0 +1,14 @@
+{ "columns":16,
+ "image":"space_tileset_1.bmp",
+ "imageheight":256,
+ "imagewidth":512,
+ "margin":0,
+ "name":"Space_white",
+ "spacing":0,
+ "tilecount":128,
+ "tiledversion":"1.10.1",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":"1.10"
+}
